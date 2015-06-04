@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative 'the_edge_of_mars'
+
+TheEdgeOfMars::Game.new
